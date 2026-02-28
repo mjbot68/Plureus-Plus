@@ -11,7 +11,7 @@ export const STACK_001: Stack = {
   statements: [
     {
       id: 1,
-      text: "LeBron James is the greatest basketball player of all time.",
+      text: "The U.S. Economy is headed in the right direction.",
     },
     {
       id: 2,
