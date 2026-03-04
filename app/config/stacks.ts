@@ -11,15 +11,15 @@ export const STACK_001: Stack = {
   statements: [
     {
       id: 1,
-      text: "The U.S. Economy is headed in the right direction.",
+      text: "An election result is legitimate if it follows established rules, even when my preferred candidate loses.",
     },
     {
       id: 2,
-      text: "Winning championships matters more than individual performance when judging greatness.",
+      text: "I would accept an election outcome I strongly disagree with if it meant preserving trust in the democratic process.",
     },
     {
       id: 3,
-      text: "Modern players are more skilled than players from previous eras.",
+      text: "I trust the election system more than political leaders to determine fair outcomes.",
     },
   ],
 };
